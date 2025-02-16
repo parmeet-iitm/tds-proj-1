@@ -1,0 +1,3 @@
+podman build -t tdsp1 . && podman run -p 8000:8000 tdsp1
+podman exec -it 646d4409ef8b /bin/bash
+podman exec -it $(podman ps -q) /bin/bash

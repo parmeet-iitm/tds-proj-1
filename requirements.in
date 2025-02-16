@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+beautifulsoup4
+Pillow
+lxml
+pytesseract
+uv
+faker
+python-dateutil
+markdown
+httpx
+duckdb
+numpy
+docstring_parser
